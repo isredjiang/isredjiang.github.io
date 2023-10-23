@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-c8e3b33c","path":"/en/docs/Gungnir/plugins/intro.html","title":"Plugins","lang":"en-US","frontmatter":{"title":"Plugins","date":"2021-12-12T00:00:00.000Z"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":1,"words":131},"filePathRelative":"en/docs/Gungnir/plugins/intro.md"}');export{e as data};

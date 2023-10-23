@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-09cd2b78","path":"/docs/Gungnir/basic/installation.html","title":"\u5B89\u88C5","lang":"zh-CN","frontmatter":{"title":"\u5B89\u88C5","date":"2020-10-18T00:00:00.000Z"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":1,"words":136},"filePathRelative":"docs/Gungnir/basic/installation.md"}');export{t as data};

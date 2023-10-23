@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-43779ecc","path":"/docs/Gungnir/advanced/rss.html","title":"RSS","lang":"zh-CN","frontmatter":{"title":"RSS","date":"2021-03-26T00:00:00.000Z"},"excerpt":"","headers":[],"git":{},"readingTime":{"minutes":1,"words":56},"filePathRelative":"docs/Gungnir/advanced/rss.md"}');export{e as data};

@@ -1,0 +1,26 @@
+{
+  "name": "小红的(º﹃º )世界",
+  "short_name": "redjiang",
+  "description": "我会把一些记忆种在这里，等待它们长成参天大树。",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#2d3746",
+  "theme_color": "#377bb5",
+  "icons": [
+    {
+      "src": "/img/logo/msapplication-icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/logo/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/img/logo/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
